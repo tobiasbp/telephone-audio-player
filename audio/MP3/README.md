@@ -2,7 +2,7 @@ Audio files for simulating a telephone call
 
 * *0001.mp3* Dial tone.
 * *0002.mp3* Placing call.
-* *0003.mp3* Number dialed is busy.
+* *0003.mp3* Number dialed is busy/call ended.
 * *0004.mp3* Number dialed does not exist.
 
 Telephone numbers which can be called.
